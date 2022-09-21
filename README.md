@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 If one day,
 
@@ -10,8 +10,6 @@ you are no longer the pursuit of growth, just to fix
 
 Everything begins!
 
-<br>
+—— Khalil Gibran
 
-—— khalil gibran
-
-</center>
+</div>
