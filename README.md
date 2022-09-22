@@ -6,5 +6,5 @@ If one day,
 <br>you are no longer the pursuit of growth, just to fix
 <br>Everything begins!
 <br>—— Khalil Gibran
-</em>
+</strong></em>
 </p>
