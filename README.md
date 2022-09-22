@@ -1,5 +1,5 @@
 <p align="center">
-<em>
+<em><strong>
 If one day,
 <br>you are no longer looking for love, only love
 <br>you are no longer a desire for success, only to do
